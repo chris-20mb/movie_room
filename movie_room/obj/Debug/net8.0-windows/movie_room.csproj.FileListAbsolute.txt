@@ -1,0 +1,17 @@
+C:\PROJECTS\movie_room\movie_room\movie_room\obj\Debug\net8.0-windows\movie_room.Form1.resources
+C:\PROJECTS\movie_room\movie_room\movie_room\obj\Debug\net8.0-windows\movie_room.csproj.GenerateResource.cache
+C:\PROJECTS\movie_room\movie_room\movie_room\obj\Debug\net8.0-windows\movie_room.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECTS\movie_room\movie_room\movie_room\obj\Debug\net8.0-windows\movie_room.AssemblyInfoInputs.cache
+C:\PROJECTS\movie_room\movie_room\movie_room\obj\Debug\net8.0-windows\movie_room.AssemblyInfo.cs
+C:\PROJECTS\movie_room\movie_room\movie_room\obj\Debug\net8.0-windows\movie_room.csproj.CoreCompileInputs.cache
+C:\PROJECTS\movie_room\movie_room\movie_room\bin\Debug\net8.0-windows\movie_room.exe
+C:\PROJECTS\movie_room\movie_room\movie_room\bin\Debug\net8.0-windows\movie_room.deps.json
+C:\PROJECTS\movie_room\movie_room\movie_room\bin\Debug\net8.0-windows\movie_room.runtimeconfig.json
+C:\PROJECTS\movie_room\movie_room\movie_room\bin\Debug\net8.0-windows\movie_room.dll
+C:\PROJECTS\movie_room\movie_room\movie_room\bin\Debug\net8.0-windows\movie_room.pdb
+C:\PROJECTS\movie_room\movie_room\movie_room\obj\Debug\net8.0-windows\movie_room.dll
+C:\PROJECTS\movie_room\movie_room\movie_room\obj\Debug\net8.0-windows\refint\movie_room.dll
+C:\PROJECTS\movie_room\movie_room\movie_room\obj\Debug\net8.0-windows\movie_room.pdb
+C:\PROJECTS\movie_room\movie_room\movie_room\obj\Debug\net8.0-windows\movie_room.genruntimeconfig.cache
+C:\PROJECTS\movie_room\movie_room\movie_room\obj\Debug\net8.0-windows\ref\movie_room.dll
+C:\PROJECTS\movie_room\movie_room\movie_room\obj\Debug\net8.0-windows\movie_room.Form2.resources
